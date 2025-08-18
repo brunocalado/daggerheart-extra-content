@@ -19,7 +19,7 @@ Resources for Daggerheart
 
 ## Manual Instalation
 Go to **modules** and paste the link. 
-Link: https://raw.githubusercontent.com/brunocalado/daggerheart-ptbr/main/module.json
+Link: https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json
 
 # Changelog
 You can read changes at [Changelog](CHANGELOG.md)
