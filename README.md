@@ -5,11 +5,11 @@ Resources for Daggerheart
 - Create Random PC: create a random PC
 
 ## Motherboard Frame
+- Compediums with tables and items 
 - Macro: Scrap Reward  
 <p align="center">
   <img width="500" src="docs/macro-motherboard1.webp">
 </p>
-- Compediums with tables and items 
 
 ## Assets
 - [Turn Maker](turn-markers)
