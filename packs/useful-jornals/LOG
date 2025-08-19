@@ -1,0 +1,5 @@
+2025/08/19-17:43:13.275 1c0c Delete type=3 #1
+2025/08/19-17:43:35.944 3aac Level-0 table #5: started
+2025/08/19-17:43:35.946 3aac Level-0 table #5: 5125 bytes OK
+2025/08/19-17:43:35.947 3aac Delete type=0 #3
+2025/08/19-17:43:35.954 3aac Manual compaction at level-0 from '!journal!pjL8Mee7ZzZ1AkA6' @ 72057594037927935 : 1 .. '!journal.pages!pjL8Mee7ZzZ1AkA6.xtteh3yZNwmEDVAF' @ 0 : 0; will stop at (end)

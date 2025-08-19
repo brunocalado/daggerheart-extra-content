@@ -11,6 +11,9 @@ Resources for Daggerheart
   <img width="500" src="docs/macro-motherboard1.webp">
 </p>
 
+## Adversaries Features Compedium
+All adversaries features in one compedium to make easy to create new adversaries.
+
 ## Assets
 - [Turn Maker](turn-markers)
 - [Token Frame](token-frames)

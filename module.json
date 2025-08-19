@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -59,6 +59,30 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "label": "Adversaries Features",
+      "type": "Item",
+      "name": "adversaries-features",
+      "path": "packs/adversaries-features",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Useful Jornals",
+      "type": "JournalEntry",
+      "name": "useful-jornals",
+      "path": "packs/useful-jornals",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }    
   ],  
   "packFolders": [
@@ -69,7 +93,9 @@
       "packs": [
         "motherboard-items",
         "macros",
-        "motherboard-tables"
+        "motherboard-tables",
+        "useful-jornals",
+        "adversaries-features"
       ],
       "folders": []
     }
