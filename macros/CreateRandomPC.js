@@ -1,4 +1,4 @@
-// VERSION: 1.0
+// VERSION: 1.1
 
 // Macro to create actor 
 // Configure these variables to customize your actor
@@ -91,27 +91,28 @@ async function createActor() {
             await actor.createEmbeddedDocuments("Item", [itemData]);            
             itemData = selectedCards[1].toObject();
             await actor.createEmbeddedDocuments("Item", [itemData]);            
-
-            //take
-            
-            itemData = randomClass.system.inventory.take[0];
+console.log("================")
+console.log(selectedCards[0])
+            // basic items        
+            //itemData = randomClass.system.inventory.take[0];
+            itemData = await fromUuid(randomClass.system.inventory.take[0].uuid);
             await actor.createEmbeddedDocuments("Item", [itemData]);            
-            itemData = randomClass.system.inventory.take[1];
+            itemData = await fromUuid(randomClass.system.inventory.take[1].uuid);
             await actor.createEmbeddedDocuments("Item", [itemData]);            
-            itemData = randomClass.system.inventory.take[2];
+            itemData = await fromUuid(randomClass.system.inventory.take[2].uuid);
             await actor.createEmbeddedDocuments("Item", [itemData]);            
             
             //suggested
             if (randomClass.system.characterGuide.suggestedPrimaryWeapon) {
-              itemData = randomClass.system.characterGuide.suggestedPrimaryWeapon;
+              itemData = await fromUuid(randomClass.system.characterGuide.suggestedPrimaryWeapon.uuid);
               await actor.createEmbeddedDocuments("Item", [itemData]);          
             }
             if (randomClass.system.characterGuide.suggestedSecondaryWeapon) {
-              itemData = randomClass.system.characterGuide.suggestedSecondaryWeapon;
+              itemData = await fromUuid(randomClass.system.characterGuide.suggestedSecondaryWeapon.uuid);
               await actor.createEmbeddedDocuments("Item", [itemData]);       
             }            
             if (randomClass.system.characterGuide.suggestedArmor) {
-              itemData = randomClass.system.characterGuide.suggestedArmor;
+              itemData = await fromUuid(randomClass.system.characterGuide.suggestedArmor.uuid);
               await actor.createEmbeddedDocuments("Item", [itemData]);            
             }
             //choices
@@ -123,9 +124,13 @@ async function createActor() {
               randomClass.system.inventory.choiceB[0],
               randomClass.system.inventory.choiceB[1]
             ]            
-            itemData = choiceA[Math.floor(Math.random() * choiceA.length)];
+            //itemData = choiceA[Math.floor(Math.random() * choiceA.length)];
+            itemData = await fromUuid(choiceA[Math.floor(Math.random() * choiceA.length)].uuid);
+            console.log(itemData)
+            console.log("================")
             await actor.createEmbeddedDocuments("Item", [itemData]);            
-            itemData = choiceB[Math.floor(Math.random() * choiceB.length)];
+            //itemData = choiceB[Math.floor(Math.random() * choiceB.length)];
+            itemData = await fromUuid(choiceB[Math.floor(Math.random() * choiceB.length)].uuid);
             await actor.createEmbeddedDocuments("Item", [itemData]);            
 
             const commonData = {
