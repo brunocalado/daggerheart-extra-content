@@ -3,6 +3,7 @@ Resources for Daggerheart
 
 ## Macros
 - Create Random PC: create a random PC
+- Downtime
 
 ## Motherboard Frame
 - Compediums with tables and items 
@@ -10,6 +11,9 @@ Resources for Daggerheart
 <p align="center">
   <img width="500" src="docs/macro-motherboard1.webp">
 </p>
+
+## Age of Umbra Frame
+- Macro: Lurking Darkness
 
 ## Adversaries Features Compedium
 All adversaries features in one compedium to make easy to create new adversaries.

@@ -1,3 +1,7 @@
+# 1.0.4
+- macro: Downtime
+- macro: Lurking Darkness (age of umbra)
+
 # 1.0.3
 - Roll Loot & Consumable
 
