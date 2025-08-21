@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -83,6 +83,18 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "label": "Loot and Consumable Tables",
+      "type": "RollTable",
+      "name": "loot-and-consumable-tables",
+      "path": "packs/loot-and-consumable-tables",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }    
   ],  
   "packFolders": [
@@ -95,7 +107,8 @@
         "macros",
         "motherboard-tables",
         "useful-jornals",
-        "adversaries-features"
+        "adversaries-features",
+        "loot-and-consumable-tables"
       ],
       "folders": []
     }

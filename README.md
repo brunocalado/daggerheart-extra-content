@@ -14,6 +14,12 @@ Resources for Daggerheart
 ## Adversaries Features Compedium
 All adversaries features in one compedium to make easy to create new adversaries.
 
+## Loot and Consumable
+Include macro to make easy roll the tables.
+<p align="center">
+  <img width="500" src="docs/loot-consumable.webp">
+</p>
+
 ## Assets
 - [Turn Maker](turn-markers)
 - [Token Frame](token-frames)
