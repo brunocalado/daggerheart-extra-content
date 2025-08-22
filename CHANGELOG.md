@@ -1,3 +1,6 @@
+# 1.0.5
+updated macros for loot 
+
 # 1.0.4
 - macro: Downtime
 - macro: Lurking Darkness (age of umbra)

@@ -4,6 +4,7 @@ Resources for Daggerheart
 ## Macros
 - Create Random PC: create a random PC
 - Downtime
+- Roll Loot and Roll Consumable
 
 ## Motherboard Frame
 - Compediums with tables and items 
