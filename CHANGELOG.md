@@ -1,3 +1,6 @@
+# 1.0.9
+- motherboard tether
+
 # 1.0.8
 - motherboard added value to scrap
 
