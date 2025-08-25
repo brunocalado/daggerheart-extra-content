@@ -1,3 +1,6 @@
+# 1.0.7
+- motherboard scrap shop update
+
 # 1.0.6
 - motherboard scrap shop
 
