@@ -9,6 +9,7 @@ Resources for Daggerheart
 ## Motherboard Frame
 - Compediums with tables and items 
 - Macro: Scrap Reward  
+- Macro: Scrap Shop
 <p align="center">
   <img width="500" src="docs/macro-motherboard1.webp">
 </p>

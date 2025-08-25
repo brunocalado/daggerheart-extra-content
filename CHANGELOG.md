@@ -1,3 +1,6 @@
+# 1.0.6
+- motherboard scrap shop
+
 # 1.0.5
 updated macros for loot 
 
