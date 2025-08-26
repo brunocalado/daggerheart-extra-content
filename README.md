@@ -29,6 +29,7 @@ Include macro to make easy roll the tables.
 ## Assets
 - [Turn Maker](turn-markers)
 - [Token Frame](token-frames)
+- [Bar Brawl](bar-brawl)
 
 # Instalation
 

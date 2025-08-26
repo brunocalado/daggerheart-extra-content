@@ -1,3 +1,7 @@
+# 1.1.0
+- better monster Features
+- bar brawl assets
+
 # 1.0.9
 - motherboard tether
 
