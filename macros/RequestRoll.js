@@ -1,4 +1,4 @@
-//VERSION 1.0
+//VERSION 1.1
 
 // Macro for Foundry VTT v13 - Dice Roll with customizable options
 new Dialog({
@@ -50,7 +50,7 @@ new Dialog({
   buttons: {
     roll: {
       icon: '<i class="fas fa-dice-d20"></i>',
-      label: "Rolar",
+      label: "Request Roll",
       callback: (html) => {
         // Capture form values
         const difficulty = html.find('[name="difficulty"]').val();
@@ -113,7 +113,7 @@ new Dialog({
     },
     cancel: {
       icon: '<i class="fas fa-times"></i>',
-      label: "Cancelar"
+      label: "Cancel"
     }
   },
   default: "roll",

@@ -1,3 +1,6 @@
+# 1.1.2
+- macro request roll update 
+
 # 1.1.1
 - macro request Roll
 
