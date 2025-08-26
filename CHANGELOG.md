@@ -1,3 +1,6 @@
+# 1.1.1
+- macro request Roll
+
 # 1.1.0
 - better monster Features
 - bar brawl assets

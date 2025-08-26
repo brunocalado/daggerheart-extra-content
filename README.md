@@ -5,6 +5,7 @@ Resources for Daggerheart
 - Create Random PC: create a random PC
 - Downtime
 - Roll Loot and Roll Consumable
+- Request Roll
 
 ## Motherboard Frame
 - Compediums with tables and items 
