@@ -1,3 +1,6 @@
+# 1.1.3
+- more Adversaries compendium
+
 # 1.1.2
 - macro request roll update 
 

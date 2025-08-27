@@ -7,6 +7,12 @@ Resources for Daggerheart
 - Roll Loot and Roll Consumable
 - Request Roll
 
+## More Adversaries Compendium
+Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
+<p align="center">
+  <img width="600" src="docs/extra-enemies.webp">
+</p>
+
 ## Motherboard Frame
 - Compediums with tables and items 
 - Macro: Scrap Reward  
@@ -37,6 +43,9 @@ Include macro to make easy roll the tables.
 ## Manual Instalation
 Go to **modules** and paste the link. 
 Link: https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json
+
+# Acknowledges
+- @xayentist 
 
 # Changelog
 You can read changes at [Changelog](CHANGELOG.md)
