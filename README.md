@@ -10,7 +10,7 @@ Resources for Daggerheart
 ## More Adversaries Compendium
 Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
 <p align="center">
-  <img width="600" src="docs/extra-enemies.webp">
+  <img width="400" src="docs/extra-enemies.webp">
 </p>
 
 ## Motherboard Frame
