@@ -39,6 +39,8 @@ Include macro to make easy roll the tables.
 - [Bar Brawl](bar-brawl)
 
 # Instalation
+## Instalation
+Search for Daggerheart - Extra Content on Foundry VTT modules.
 
 ## Manual Instalation
 Go to **modules** and paste the link. 
@@ -46,6 +48,7 @@ Link: https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/ma
 
 # Acknowledges
 - @xayentist 
+- @groovything 
 
 # Changelog
 You can read changes at [Changelog](CHANGELOG.md)
