@@ -6,6 +6,7 @@ Resources for Daggerheart
 - Downtime
 - Roll Loot and Roll Consumable
 - Request Roll
+- Torch
 
 ## More Adversaries Compendium
 Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).

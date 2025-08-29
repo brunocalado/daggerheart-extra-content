@@ -1,3 +1,6 @@
+# 1.1.5
+- macro Torch
+
 # 1.1.3
 - more Adversaries compendium
 

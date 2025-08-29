@@ -24,7 +24,15 @@ const currentFear = game.settings.get(CONFIG.DH.id, CONFIG.DH.SETTINGS.gameSetti
                         game.settings.set(CONFIG.DH.id, CONFIG.DH.SETTINGS.gameSettings.Resources.Fear, newFear);
                         await ChatMessage.create({
                             user: game.user.id,
-                            content: `<strong>The GM earns ${fear} fear.</strong>.`
+                            content: `
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <img src="icons/magic/death/projectile-skull-fire-purple.webp" 
+                                         alt="Fear Icon" 
+                                         style="width: 32px; height: 32px; border: none;">
+                                    <strong>The GM earns ${fear} fear.</strong>
+                                </div>
+                            `                            
+                            //content: `<strong>The GM earns ${fear} fear.</strong>.`
                         });
 
                     }
@@ -43,7 +51,15 @@ const currentFear = game.settings.get(CONFIG.DH.id, CONFIG.DH.SETTINGS.gameSetti
                         game.settings.set(CONFIG.DH.id, CONFIG.DH.SETTINGS.gameSettings.Resources.Fear, newFear);                      
                         await ChatMessage.create({
                             user: game.user.id,
-                            content: `<strong>The GM earns ${fear} fear.</strong>.`
+                            content: `
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <img src="icons/magic/death/projectile-skull-fire-purple.webp" 
+                                         alt="Fear Icon" 
+                                         style="width: 32px; height: 32px; border: none;">
+                                    <strong>The GM earns ${fear} fear.</strong>
+                                </div>
+                            `                            
+                            //content: `<strong>The GM earns ${fear} fear.</strong>.`
                         });
 
                     }
