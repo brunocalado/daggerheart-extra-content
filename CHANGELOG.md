@@ -1,3 +1,6 @@
+# 1.1.6
+- scar check macro
+
 # 1.1.5
 - macro Torch
 
