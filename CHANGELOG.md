@@ -1,3 +1,6 @@
+# 1.1.7
+- Help an Ally
+
 # 1.1.6
 - scar check macro
 

@@ -8,6 +8,7 @@ Resources for Daggerheart
 - Request Roll
 - Torch
 - Avoid Death - Scar Check 
+- Help an Ally
 
 ## More Adversaries Compendium
 Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
