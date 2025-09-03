@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -73,10 +73,10 @@
       "flags": {}
     },
     {
-      "label": "Useful Jornals",
+      "label": "Useful Journals",
       "type": "JournalEntry",
-      "name": "useful-jornals",
-      "path": "packs/useful-jornals",
+      "name": "useful-journals",
+      "path": "packs/useful-journals",
       "system": "daggerheart",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -118,7 +118,7 @@
         "motherboard-items",
         "macros",
         "motherboard-tables",
-        "useful-jornals",
+        "useful-journals",
         "adversaries-features",
         "loot-and-consumable-tables",
         "more-adversaries"

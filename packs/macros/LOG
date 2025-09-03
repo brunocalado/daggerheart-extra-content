@@ -1,16 +1,15 @@
-2025/08/30-19:48:25.392 51a4 Recovering log #184
-2025/08/30-19:48:25.396 51a4 Delete type=0 #184
-2025/08/30-19:48:25.396 51a4 Delete type=3 #182
-2025/08/30-19:58:47.829 2148 Level-0 table #189: started
-2025/08/30-19:58:47.830 2148 Level-0 table #189: 5343 bytes OK
-2025/08/30-19:58:47.831 2148 Delete type=0 #187
-2025/08/30-19:58:47.831 2148 Manual compaction at level-0 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!yzkAlKqxCp7IsqLl' @ 0 : 0; will stop at (end)
-2025/08/30-19:58:47.831 2148 Manual compaction at level-1 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!yzkAlKqxCp7IsqLl' @ 0 : 0; will stop at '!macros!w6dCoSaCPMc41uVn' @ 42 : 1
-2025/08/30-19:58:47.831 2148 Compacting 1@1 + 2@2 files
-2025/08/30-19:58:47.833 2148 Generated table #190@1: 13 keys, 27550 bytes
-2025/08/30-19:58:47.833 2148 Compacted 1@1 + 2@2 files => 27550 bytes
-2025/08/30-19:58:47.834 2148 compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/08/30-19:58:47.834 2148 Delete type=2 #181
-2025/08/30-19:58:47.835 2148 Delete type=2 #185
-2025/08/30-19:58:47.835 2148 Delete type=2 #189
-2025/08/30-19:58:47.839 2148 Manual compaction at level-1 from '!macros!w6dCoSaCPMc41uVn' @ 42 : 1 .. '!macros!yzkAlKqxCp7IsqLl' @ 0 : 0; will stop at (end)
+2025/09/03-14:11:02.162 397c Recovering log #218
+2025/09/03-14:11:02.166 397c Delete type=0 #218
+2025/09/03-14:11:02.167 397c Delete type=3 #216
+2025/09/03-16:52:24.429 4e58 Level-0 table #223: started
+2025/09/03-16:52:24.431 4e58 Level-0 table #223: 2848 bytes OK
+2025/09/03-16:52:24.433 4e58 Delete type=0 #221
+2025/09/03-16:52:24.436 4e58 Manual compaction at level-0 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!yzkAlKqxCp7IsqLl' @ 0 : 0; will stop at (end)
+2025/09/03-16:52:24.436 4e58 Manual compaction at level-1 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!yzkAlKqxCp7IsqLl' @ 0 : 0; will stop at '!macros!PG1lpWQFCTI5FGS7' @ 68 : 1
+2025/09/03-16:52:24.436 4e58 Compacting 1@1 + 1@2 files
+2025/09/03-16:52:24.438 4e58 Generated table #224@1: 15 keys, 31637 bytes
+2025/09/03-16:52:24.438 4e58 Compacted 1@1 + 1@2 files => 31637 bytes
+2025/09/03-16:52:24.439 4e58 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/09/03-16:52:24.439 4e58 Delete type=2 #215
+2025/09/03-16:52:24.439 4e58 Delete type=2 #223
+2025/09/03-16:52:24.441 4e58 Manual compaction at level-1 from '!macros!PG1lpWQFCTI5FGS7' @ 68 : 1 .. '!macros!yzkAlKqxCp7IsqLl' @ 0 : 0; will stop at (end)

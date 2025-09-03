@@ -9,6 +9,8 @@ Resources for Daggerheart
 - Torch
 - Avoid Death - Scar Check 
 - Help an Ally
+- Spotlight this Token!
+- Beastform
 
 ## More Adversaries Compendium
 Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
@@ -37,7 +39,7 @@ Include macro to make easy roll the tables.
 </p>
 
 ## Assets
-- [Turn Maker](turn-markers)
+- [Turn Marker](turn-markers)
 - [Token Frame](token-frames)
 - [Bar Brawl](bar-brawl)
 
@@ -52,6 +54,9 @@ Link: https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/ma
 # Acknowledges
 - @xayentist 
 - @groovything 
+- @joaquinp98 
+- @o.frutuoso 
+- @flameofwar 
 
 # Changelog
 You can read changes at [Changelog](CHANGELOG.md)

@@ -1,3 +1,10 @@
+# 1.1.8
+- spolight this token macro
+- more Adversaries
+- typo
+- recommended modules journal
+- beastform macro
+
 # 1.1.7
 - Help an Ally
 
