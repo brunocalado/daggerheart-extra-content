@@ -1,3 +1,6 @@
+# 1.1.9
+- more items
+
 # 1.1.8
 - spolight this token macro
 - more Adversaries

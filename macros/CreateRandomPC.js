@@ -1,4 +1,4 @@
-// VERSION: 1.1
+// VERSION: 1.2
 
 // Macro to create actor 
 // Configure these variables to customize your actor
@@ -53,12 +53,21 @@ async function createActor() {
             await actor.createEmbeddedDocuments("Item", [itemData]);
 
             const randomClass = await getRandomClass();
+            console.log('===class', randomClass)
             itemData = randomClass.toObject();
             await actor.createEmbeddedDocuments("Item", [itemData]);            
 
-            const subClass = await getRandomSubClass(randomClass.toObject());
-            itemData = subClass.toObject();
-            await actor.createEmbeddedDocuments("Item", [itemData]);            
+            const subClass = await getRandomSubClass(randomClass.toObject()); // should work           
+                    //const tempItem = await Item.create(subClass.toObject(), {temporary: true});
+        //await actor.createEmbeddedDocuments("Item", [tempItem.toObject()]);
+const tempitemData = (await fromUuid(subClass.uuid)).toObject();
+await actor.createEmbeddedDocuments("Item", [tempitemData]);
+            //const tempitemData = await fromUuid(subClass.uuid); // also should work
+            //console.log('===subclass', tempitemData)
+            itemData = subClass;
+                    //delete itemData._id;
+
+           //await actor.createEmbeddedDocuments("Item", [itemData]);            
 
             //actor = updateTraits(actor, randomClass);
             const updateTraits = {
@@ -234,7 +243,12 @@ async function getRandomSubClass(classObject) {
         const selectedSubclassRef = subclassReferences[randomIndex];
         
         console.log(`Selected random subclass reference: ${selectedSubclassRef}`);
-        
+        const itemData = await fromUuid(selectedSubclassRef);
+        return itemData;
+        //await actor.createEmbeddedDocuments("Item", [itemData]);            
+        console.log('aqui=========');
+        console.log(itemData);
+        console.log('=========');
         // Extract the ID from the compendium reference
         // Format: "Compendium.daggerheart.subclasses.Item.ID"
         const idMatch = selectedSubclassRef.match(/\.([^.]+)$/);

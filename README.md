@@ -18,6 +18,12 @@ Community build adversaries! Share yours too at [link](https://github.com/brunoc
   <img width="400" src="docs/extra-enemies.webp">
 </p>
 
+## More Items Compendium
+- Weapons, Loot and Consumables
+<p align="center">
+  <img width="400" src="docs/more-items.webp.webp">
+</p>
+
 ## Motherboard Frame
 - Compediums with tables and items 
 - Macro: Scrap Reward  

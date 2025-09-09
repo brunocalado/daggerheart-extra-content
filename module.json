@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -107,6 +107,18 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "label": "More Items",
+      "type": "Item",
+      "name": "more-items",
+      "path": "packs/more-items",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }    
   ],  
   "packFolders": [
@@ -121,7 +133,8 @@
         "useful-journals",
         "adversaries-features",
         "loot-and-consumable-tables",
-        "more-adversaries"
+        "more-adversaries",
+        "more-items"
       ],
       "folders": []
     }
