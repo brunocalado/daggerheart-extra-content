@@ -21,7 +21,7 @@ Community build adversaries! Share yours too at [link](https://github.com/brunoc
 ## More Items Compendium
 - Weapons, Loot and Consumables
 <p align="center">
-  <img width="400" src="docs/more-items.webp.webp">
+  <img width="400" src="docs/more-items.webp">
 </p>
 
 ## Motherboard Frame
