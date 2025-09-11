@@ -12,6 +12,15 @@ Resources for Daggerheart
 - Spotlight this Token!
 - Beastform
 
+### Macro: Aeris Cinematic Crits
+You can use **Aeris Cinematic Crits** module with Daggerheart system. Follow the steps:
+1. Import the macro **AerisCinematicCritsforDaggerheart** to the world.
+2. Go to Configure Settings.
+3. Go to Aeris Cinematic Crits Settings.
+4. Change **Crit Mode** to **Use Custom Macro**
+5. Paste **AerisCinematicCritsforDaggerheart** into **Crit Macro Name** field.
+6. When a PC rolls a critical it should trigger the animation.
+
 ## More Adversaries Compendium
 Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
 <p align="center">

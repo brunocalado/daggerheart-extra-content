@@ -1,3 +1,6 @@
+# 1.2.0
+- Macro for Aeris Cinematic Crits
+
 # 1.1.9
 - more items
 
