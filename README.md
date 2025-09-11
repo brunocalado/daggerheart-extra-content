@@ -6,7 +6,7 @@ Resources for Daggerheart
 - Downtime
 - Roll Loot and Roll Consumable
 - Request Roll
-- Torch
+- Macros for Light
 - Avoid Death - Scar Check 
 - Help an Ally
 - Spotlight this Token!
