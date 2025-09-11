@@ -1,3 +1,7 @@
+# 1.2.2
+- fix Macro for Aeris Cinematic Crits detects Adversaries advantage
+- fix new torch macro
+
 # 1.2.1
 - Macro for Aeris Cinematic Crits detects Adversaries advantage
 - new torch macro

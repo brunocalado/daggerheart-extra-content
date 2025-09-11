@@ -1,3 +1,4 @@
+// VERSION 1.0
 const adversaryCritical = 20; // Change to 19 for Age of Umbra
 
 // critArgs: { roll, message }
@@ -9,14 +10,13 @@ if (roll.title==='D20 Roll') {
 
   if ( roll.hasAdvantage || roll.hasDisadvantage ) {
     die2 = roll.dice[0].results[1].result;
-  } 
-
-  if ( roll.hasAdvantage || roll.hasDisadvantage ) {
-    if (die1 >= adversaryCritical || die2 >= adversaryCritical ) {
+    if ( roll.hasAdvantage && ( die1 >= adversaryCritical || die2 >= adversaryCritical ) ) {
       return true;
+    } else if ( roll.hasDisadvantage && ( die1 >= adversaryCritical && die2 >= adversaryCritical ) ) {
+      return true;  
     } else {
-      return false;  
-    }    
+      return false;
+    }
   } 
   
   // Daggerheart
