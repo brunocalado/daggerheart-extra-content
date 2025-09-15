@@ -1,15 +1,8 @@
-2025/09/11-14:05:34.774 4c9c Recovering log #284
-2025/09/11-14:05:34.776 4c9c Delete type=0 #284
-2025/09/11-14:05:34.776 4c9c Delete type=3 #282
-2025/09/11-14:22:56.605 428c Level-0 table #290: started
-2025/09/11-14:22:56.607 428c Level-0 table #290: 5348 bytes OK
-2025/09/11-14:22:56.608 428c Delete type=0 #288
-2025/09/11-14:22:56.612 428c Manual compaction at level-0 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
-2025/09/11-14:22:56.612 428c Manual compaction at level-1 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at '!macros!zWi79s5QqaZnMMtX' @ 89 : 1
-2025/09/11-14:22:56.612 428c Compacting 1@1 + 1@2 files
-2025/09/11-14:22:56.614 428c Generated table #291@1: 22 keys, 39782 bytes
-2025/09/11-14:22:56.614 428c Compacted 1@1 + 1@2 files => 39782 bytes
-2025/09/11-14:22:56.614 428c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/09/11-14:22:56.615 428c Delete type=2 #286
-2025/09/11-14:22:56.615 428c Delete type=2 #290
-2025/09/11-14:22:56.615 428c Manual compaction at level-1 from '!macros!zWi79s5QqaZnMMtX' @ 89 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
+2025/09/15-16:00:19.423 1130 Recovering log #300
+2025/09/15-16:00:19.427 1130 Delete type=0 #300
+2025/09/15-16:00:19.427 1130 Delete type=3 #298
+2025/09/15-16:06:51.524 3fb4 Level-0 table #305: started
+2025/09/15-16:06:51.524 3fb4 Level-0 table #305: 0 bytes OK
+2025/09/15-16:06:51.525 3fb4 Delete type=0 #303
+2025/09/15-16:06:51.528 3fb4 Manual compaction at level-0 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
+2025/09/15-16:06:51.528 3fb4 Manual compaction at level-1 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)

@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -119,6 +119,17 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "label": "Curses",
+      "type": "Item",
+      "name": "curses",
+      "path": "packs/curses",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }    
   ],  
   "packFolders": [
@@ -134,7 +145,8 @@
         "adversaries-features",
         "loot-and-consumable-tables",
         "more-adversaries",
-        "more-items"
+        "more-items",
+        "curses"
       ],
       "folders": []
     }

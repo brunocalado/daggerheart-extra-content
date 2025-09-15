@@ -1,3 +1,7 @@
+# 1.2.3
+- curses
+- domain loot
+
 # 1.2.2
 - fix Macro for Aeris Cinematic Crits detects Adversaries advantage
 - fix new torch macro

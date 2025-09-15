@@ -33,6 +33,9 @@ Community build adversaries! Share yours too at [link](https://github.com/brunoc
   <img width="600" src="docs/more-items.webp">
 </p>
 
+## Curses Compendium
+Curses compendium
+
 ## Motherboard Frame
 - Compediums with tables and items 
 - Macro: Scrap Reward  
