@@ -1,3 +1,6 @@
+# 1.2.6
+- more ancestries and fix
+
 # 1.2.5
 - ancestries fix
 
