@@ -1,3 +1,6 @@
+# 1.2.4
+- more ancestries
+
 # 1.2.3
 - curses
 - domain loot

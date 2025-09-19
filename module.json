@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -130,6 +130,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "label": "Ancestry",
+      "type": "Item",
+      "name": "ancestry",
+      "path": "packs/ancestry",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }    
   ],  
   "packFolders": [
@@ -146,7 +157,8 @@
         "loot-and-consumable-tables",
         "more-adversaries",
         "more-items",
-        "curses"
+        "curses",
+        "ancestry"
       ],
       "folders": []
     }

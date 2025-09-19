@@ -33,6 +33,11 @@ Community build adversaries! Share yours too at [link](https://github.com/brunoc
   <img width="600" src="docs/more-items.webp">
 </p>
 
+## More Ancestries Compendium
+<p align="center">
+  <img width="600" src="docs/ancestry.webp">
+</p>
+
 ## Curses Compendium
 Curses compendium
 
