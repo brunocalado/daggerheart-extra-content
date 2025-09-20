@@ -86,3 +86,5 @@ You can read changes at [Changelog](CHANGELOG.md)
 
 # License
 Code license at [LICENSE](LICENSE).
+
+The images for Ancestries are AI, so they are under [public domain](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -132,7 +132,7 @@
       }
     },
     {
-      "label": "Ancestry",
+      "label": "Ancestries",
       "type": "Item",
       "name": "ancestry",
       "path": "packs/ancestry",
