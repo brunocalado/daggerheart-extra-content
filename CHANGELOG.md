@@ -1,3 +1,7 @@
+# 1.2.8
+- ancestries fix
+- new adversary: boomfiend
+
 # 1.2.7
 - ancestries fix
 
