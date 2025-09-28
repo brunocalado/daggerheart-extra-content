@@ -20,6 +20,7 @@ You can use **Aeris Cinematic Crits** module with Daggerheart system. Follow the
 4. Change **Crit Mode** to **Use Custom Macro**
 5. Paste **AerisCinematicCritsforDaggerheart** into **Crit Macro Name** field.
 6. When a PC rolls a critical it should trigger the animation.
+7. You need to set the macro permission to Observer to all players.
 
 ## More Adversaries Compendium
 Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
@@ -87,4 +88,4 @@ You can read changes at [Changelog](CHANGELOG.md)
 # License
 Code license at [LICENSE](LICENSE).
 
-The images for Ancestries are AI, so they are under [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
+The images for Ancestries, Adversaries are AI, so they are under [public domain](https://creativecommons.org/publicdomain/zero/1.0/).

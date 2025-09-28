@@ -1,3 +1,6 @@
+# 1.2.9
+- House rules
+
 # 1.2.8
 - ancestries fix
 - new adversary: boomfiend
