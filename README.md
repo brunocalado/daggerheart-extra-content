@@ -11,6 +11,7 @@ Resources for Daggerheart
 - Help an Ally
 - Spotlight this Token!
 - Beastform
+- Falling And Collision Damage
 
 ### Macro: Aeris Cinematic Crits
 You can use **Aeris Cinematic Crits** module with Daggerheart system. Follow the steps:
