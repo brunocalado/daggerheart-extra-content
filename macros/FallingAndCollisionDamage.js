@@ -56,7 +56,7 @@ new Dialog({
         // Create chat message
         let chatContent = `
           <div class="daggerheart-falling-damage">
-            <h3>Falling & Collision Damage</h3>
+            <h3 style="color: red;">Falling & Collision Damage</h3>
             <p><strong>Height/Type:</strong> ${heightText}</p>
             <p><strong>Damage Type:</strong> ${damageType}</p>
             <p><strong>Formula:</strong> ${damageFormula}</p>

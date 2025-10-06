@@ -1,8 +1,3 @@
-2025/10/01-11:18:28.765 4b64 Recovering log #427
-2025/10/01-11:18:28.769 4b64 Delete type=0 #427
-2025/10/01-11:18:28.769 4b64 Delete type=3 #425
-2025/10/01-13:19:47.557 30ac Level-0 table #432: started
-2025/10/01-13:19:47.557 30ac Level-0 table #432: 0 bytes OK
-2025/10/01-13:19:47.558 30ac Delete type=0 #430
-2025/10/01-13:19:47.560 30ac Manual compaction at level-0 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
-2025/10/01-13:19:47.560 30ac Manual compaction at level-1 from '!folders!HRBhmD6Vs3nrAHYM' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
+2025/10/03-15:38:29.800 aac Recovering log #453
+2025/10/03-15:38:29.803 aac Delete type=0 #453
+2025/10/03-15:38:29.803 aac Delete type=3 #451
