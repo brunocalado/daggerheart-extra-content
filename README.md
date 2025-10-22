@@ -91,3 +91,5 @@ You can read changes at [Changelog](CHANGELOG.md)
 Code license at [LICENSE](LICENSE).
 
 The images for Ancestries, Adversaries are AI, so they are under [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
+
+sfx-critical: https://pixabay.com/service/license-summary/

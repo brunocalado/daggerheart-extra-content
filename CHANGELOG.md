@@ -1,3 +1,8 @@
+# 1.3.4
+- new ancestry kapivara
+- sfx for Aeris
+- ancestries balanced
+
 # 1.3.3
 - macro SystemProbability
 

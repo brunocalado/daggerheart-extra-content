@@ -1,3 +1,8 @@
-2025/10/03-15:38:29.823 aac Recovering log #403
-2025/10/03-15:38:29.827 aac Delete type=0 #403
-2025/10/03-15:38:29.827 aac Delete type=3 #401
+2025/10/22-09:20:50.783 5230 Recovering log #514
+2025/10/22-09:20:50.786 5230 Delete type=0 #514
+2025/10/22-09:20:50.786 5230 Delete type=3 #513
+2025/10/22-11:30:33.951 1c78 Level-0 table #518: started
+2025/10/22-11:30:33.951 1c78 Level-0 table #518: 0 bytes OK
+2025/10/22-11:30:33.952 1c78 Delete type=0 #516
+2025/10/22-11:30:33.956 1c78 Manual compaction at level-0 from '!journal!39fmNJ0qCd7XcCtd' @ 72057594037927935 : 1 .. '!journal.pages!pjL8Mee7ZzZ1AkA6.xtteh3yZNwmEDVAF' @ 0 : 0; will stop at (end)
+2025/10/22-11:30:33.956 1c78 Manual compaction at level-1 from '!journal!39fmNJ0qCd7XcCtd' @ 72057594037927935 : 1 .. '!journal.pages!pjL8Mee7ZzZ1AkA6.xtteh3yZNwmEDVAF' @ 0 : 0; will stop at (end)

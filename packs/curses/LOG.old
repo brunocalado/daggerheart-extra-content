@@ -1,3 +1,8 @@
-2025/10/03-15:38:29.858 aac Recovering log #156
-2025/10/03-15:38:29.861 aac Delete type=0 #156
-2025/10/03-15:38:29.861 aac Delete type=3 #154
+2025/10/22-09:20:50.893 5230 Recovering log #267
+2025/10/22-09:20:50.895 5230 Delete type=0 #267
+2025/10/22-09:20:50.895 5230 Delete type=3 #266
+2025/10/22-11:30:33.960 1c78 Level-0 table #271: started
+2025/10/22-11:30:33.960 1c78 Level-0 table #271: 0 bytes OK
+2025/10/22-11:30:33.961 1c78 Delete type=0 #269
+2025/10/22-11:30:33.963 1c78 Manual compaction at level-0 from '!items!1aJHqZQKyQZWIT2D' @ 72057594037927935 : 1 .. '!items.effects!pTf4KNiEKcQnrkof.Z6eObYbjOyjWUkf8' @ 0 : 0; will stop at (end)
+2025/10/22-11:30:33.963 1c78 Manual compaction at level-1 from '!items!1aJHqZQKyQZWIT2D' @ 72057594037927935 : 1 .. '!items.effects!pTf4KNiEKcQnrkof.Z6eObYbjOyjWUkf8' @ 0 : 0; will stop at (end)
