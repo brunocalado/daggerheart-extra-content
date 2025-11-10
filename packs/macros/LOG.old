@@ -1,8 +1,3 @@
-2025/11/10-11:03:14.159 4f18 Recovering log #632
-2025/11/10-11:03:14.162 4f18 Delete type=0 #632
-2025/11/10-11:03:14.162 4f18 Delete type=3 #630
-2025/11/10-11:05:50.512 63d4 Level-0 table #638: started
-2025/11/10-11:05:50.512 63d4 Level-0 table #638: 0 bytes OK
-2025/11/10-11:05:50.513 63d4 Delete type=0 #636
-2025/11/10-11:05:50.514 63d4 Manual compaction at level-0 from '!folders!Hz442cHCkERSfi2B' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
-2025/11/10-11:05:50.514 63d4 Manual compaction at level-1 from '!folders!Hz442cHCkERSfi2B' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
+2025/11/10-14:48:25.647 4f18 Recovering log #641
+2025/11/10-14:48:25.649 4f18 Delete type=0 #641
+2025/11/10-14:48:25.649 4f18 Delete type=3 #639

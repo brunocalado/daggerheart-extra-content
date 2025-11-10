@@ -1,3 +1,6 @@
+# 1.3.6
+- magus class balance update
+
 # 1.3.5
 - magus class
 - age of umbra macro removed
