@@ -1,3 +1,8 @@
+# 1.3.5
+- magus class
+- age of umbra macro removed
+- aeris crit macro updated
+
 # 1.3.4
 - new ancestry kapivara
 - sfx for Aeris

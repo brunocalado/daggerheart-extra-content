@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -152,7 +152,29 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
-    }     
+    },
+    {
+      "label": "Classes",
+      "type": "Item",
+      "name": "classes",
+      "path": "packs/classes",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Subclasses",
+      "type": "Item",
+      "name": "subclasses",
+      "path": "packs/subclasses",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }    
   ],  
   "packFolders": [
     {
@@ -184,7 +206,9 @@
           "packs": [
             "more-items",
             "curses",
-            "ancestry"
+            "ancestry",
+            "classes",
+            "subclasses"
           ]
         }         
       ]

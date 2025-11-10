@@ -1,4 +1,4 @@
-// VERSION 1.1
+// VERSION 1.2
 
 /* Suggested path sounds
 modules/daggerheart-extra-content/assets/sfx-critical/adv-critical-tension-impact.mp3
@@ -12,10 +12,10 @@ modules/daggerheart-extra-content/assets/sfx-critical/pc-victory-rock-guitar-tap
 const adversaryCritical = 20; // Change to 19 for Age of Umbra
 const enablePCSound = true;
 const PCSoundPath = 'modules/daggerheart-extra-content/assets/sfx-critical/pc-orchestral-win.mp3';
-const PCVolume = 0.8;
+const PCVolume = 0.6;
 const enableAdversarySound = true;
 const AdversarySoundPath = 'modules/daggerheart-extra-content/assets/sfx-critical/adv-critical-tension-impact.mp3';
-const AdversaryVolume = 0.8;
+const AdversaryVolume = 0.6;
 
 // =========================== 
 const PCsoundConfig = {
@@ -37,7 +37,8 @@ const { roll } = critArgs;
 
 // =========================== 
 // Adversary
-if (roll.title==='D20 Roll') { 
+//if (roll.title==='D20 Roll') { 
+if (roll.title===game.i18n.localize('DAGGERHEART.GENERAL.d20Roll') ) { 
   const die1 = roll.dice[0].results[0].result;
   let die2;
   let result = false;
@@ -67,7 +68,9 @@ if (roll.title==='D20 Roll') {
   return result;
 // =========================== 
 // PC
-} else if (roll.title==="Duality Roll") { 
+//} else if (roll.title==="Duality Roll") { 
+} else if (roll.title===game.i18n.localize('DAGGERHEART.GENERAL.dualityRoll')) {    
+
   const die1 = roll.dice[0].results[0].result;
   const die2 = roll.dice[1].results[0].result;
 
