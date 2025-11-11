@@ -1,3 +1,6 @@
+# 1.3.7
+- fix for the system
+
 # 1.3.6
 - magus class balance update
 
