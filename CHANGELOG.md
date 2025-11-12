@@ -1,3 +1,6 @@
+# 1.3.8
+- fix for magus class
+
 # 1.3.7
 - fix for the system
 
