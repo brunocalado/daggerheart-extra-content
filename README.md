@@ -53,9 +53,15 @@ Curses compendium
 </p>
 
 ## New Classes
+
 ### Magus
 <p align="center">
-  <img width="500" src="docs/macro-magus.webp">
+  <img width="500" src="docs/magus.webp">
+</p>
+
+### Magus
+<p align="center">
+  <img width="500" src="docs/psychic.webp">
 </p>
 
 ## Adversaries Features Compedium

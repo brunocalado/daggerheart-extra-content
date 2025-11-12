@@ -1,3 +1,6 @@
+# 1.3.9
+- psychic class
+
 # 1.3.8
 - fix for magus class
 

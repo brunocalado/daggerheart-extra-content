@@ -1,3 +1,8 @@
-2025/11/11-20:08:43.179 20dc Recovering log #660
-2025/11/11-20:08:43.182 20dc Delete type=0 #660
-2025/11/11-20:08:43.182 20dc Delete type=3 #658
+2025/11/12-09:12:58.655 c0 Recovering log #666
+2025/11/12-09:12:58.658 c0 Delete type=0 #666
+2025/11/12-09:12:58.658 c0 Delete type=3 #664
+2025/11/12-17:19:07.119 5c34 Level-0 table #671: started
+2025/11/12-17:19:07.119 5c34 Level-0 table #671: 0 bytes OK
+2025/11/12-17:19:07.121 5c34 Delete type=0 #669
+2025/11/12-17:19:07.121 5c34 Manual compaction at level-0 from '!folders!Hz442cHCkERSfi2B' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
+2025/11/12-17:19:07.121 5c34 Manual compaction at level-1 from '!folders!Hz442cHCkERSfi2B' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)

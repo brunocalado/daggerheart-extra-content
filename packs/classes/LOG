@@ -1,24 +1,3 @@
-2025/11/12-08:44:36.520 4e2c Recovering log #43
-2025/11/12-08:44:36.521 4e2c Level-0 table #45: started
-2025/11/12-08:44:36.522 4e2c Level-0 table #45: 1888 bytes OK
-2025/11/12-08:44:36.526 4e2c Delete type=0 #43
-2025/11/12-08:44:36.526 4e2c Delete type=3 #42
-2025/11/12-09:06:57.737 5c34 Level-0 table #48: started
-2025/11/12-09:06:57.739 5c34 Level-0 table #48: 9746 bytes OK
-2025/11/12-09:06:57.741 5c34 Delete type=0 #46
-2025/11/12-09:06:57.748 5c34 Manual compaction at level-0 from '!folders!5Y1yRxEHPLFlUWvg' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at '!items!8D0NQR901j0Kx0zb' @ 129 : 1
-2025/11/12-09:06:57.748 5c34 Compacting 2@0 + 0@1 files
-2025/11/12-09:06:57.749 5c34 Generated table #49@0: 6 keys, 4366 bytes
-2025/11/12-09:06:57.749 5c34 Compacted 2@0 + 0@1 files => 4366 bytes
-2025/11/12-09:06:57.750 5c34 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/11/12-09:06:57.750 5c34 Delete type=2 #45
-2025/11/12-09:06:57.750 5c34 Delete type=2 #48
-2025/11/12-09:06:57.750 5c34 Manual compaction at level-0 from '!items!8D0NQR901j0Kx0zb' @ 129 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)
-2025/11/12-09:06:57.753 5c34 Manual compaction at level-1 from '!folders!5Y1yRxEHPLFlUWvg' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at '!items.effects!mYoYtle6DKA0UwQd.G85vZctHbYiBgruO' @ 133 : 1
-2025/11/12-09:06:57.753 5c34 Compacting 1@1 + 1@2 files
-2025/11/12-09:06:57.754 5c34 Generated table #50@1: 14 keys, 8268 bytes
-2025/11/12-09:06:57.754 5c34 Compacted 1@1 + 1@2 files => 8268 bytes
-2025/11/12-09:06:57.755 5c34 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/11/12-09:06:57.755 5c34 Delete type=2 #41
-2025/11/12-09:06:57.756 5c34 Delete type=2 #49
-2025/11/12-09:06:57.759 5c34 Manual compaction at level-1 from '!items.effects!mYoYtle6DKA0UwQd.G85vZctHbYiBgruO' @ 133 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)
+2025/11/12-17:21:10.245 c0 Recovering log #53
+2025/11/12-17:21:10.248 c0 Delete type=0 #53
+2025/11/12-17:21:10.248 c0 Delete type=3 #51
