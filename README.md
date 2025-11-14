@@ -59,7 +59,7 @@ Curses compendium
   <img width="500" src="docs/magus.webp">
 </p>
 
-### Magus
+### Psychic (Animus) and Psychic (Axiom)
 <p align="center">
   <img width="500" src="docs/psychic.webp">
 </p>

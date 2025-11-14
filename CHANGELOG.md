@@ -1,3 +1,9 @@
+# 1.4.0
+- removed beastform macro
+- psychic class balance update
+- psychic class new subclass
+- new house rules
+
 # 1.3.9
 - psychic class
 
