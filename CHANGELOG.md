@@ -1,3 +1,6 @@
+# 1.4.1
+- psychic class balance update
+
 # 1.4.0
 - removed beastform macro
 - psychic class balance update

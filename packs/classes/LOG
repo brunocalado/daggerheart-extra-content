@@ -1,15 +1,15 @@
-2025/11/14-10:32:55.461 449c Recovering log #88
-2025/11/14-10:32:55.464 449c Delete type=0 #88
-2025/11/14-10:32:55.464 449c Delete type=3 #86
-2025/11/14-16:52:04.918 808 Level-0 table #93: started
-2025/11/14-16:52:04.921 808 Level-0 table #93: 27873 bytes OK
-2025/11/14-16:52:04.922 808 Delete type=0 #91
-2025/11/14-16:52:04.924 808 Manual compaction at level-0 from '!folders!56tlZYGhjZgBTjsS' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)
-2025/11/14-16:52:04.929 808 Manual compaction at level-1 from '!folders!56tlZYGhjZgBTjsS' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at '!items!m0xIb9uq6tlZdsoz' @ 208 : 1
-2025/11/14-16:52:04.929 808 Compacting 1@1 + 1@2 files
-2025/11/14-16:52:04.931 808 Generated table #94@1: 23 keys, 16537 bytes
-2025/11/14-16:52:04.931 808 Compacted 1@1 + 1@2 files => 16537 bytes
-2025/11/14-16:52:04.932 808 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/11/14-16:52:04.932 808 Delete type=2 #55
-2025/11/14-16:52:04.932 808 Delete type=2 #93
-2025/11/14-16:52:04.933 808 Manual compaction at level-1 from '!items!m0xIb9uq6tlZdsoz' @ 208 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)
+2025/11/14-17:21:21.332 2dc4 Recovering log #97
+2025/11/14-17:21:21.336 2dc4 Delete type=0 #97
+2025/11/14-17:21:21.336 2dc4 Delete type=3 #95
+2025/11/14-17:25:28.910 808 Level-0 table #103: started
+2025/11/14-17:25:28.912 808 Level-0 table #103: 6499 bytes OK
+2025/11/14-17:25:28.912 808 Delete type=0 #101
+2025/11/14-17:25:28.913 808 Manual compaction at level-0 from '!folders!56tlZYGhjZgBTjsS' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)
+2025/11/14-17:25:28.913 808 Manual compaction at level-1 from '!folders!56tlZYGhjZgBTjsS' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at '!items!m0xIb9uq6tlZdsoz' @ 224 : 1
+2025/11/14-17:25:28.913 808 Compacting 1@1 + 1@2 files
+2025/11/14-17:25:28.915 808 Generated table #104@1: 23 keys, 16903 bytes
+2025/11/14-17:25:28.915 808 Compacted 1@1 + 1@2 files => 16903 bytes
+2025/11/14-17:25:28.915 808 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/14-17:25:28.916 808 Delete type=2 #99
+2025/11/14-17:25:28.916 808 Delete type=2 #103
+2025/11/14-17:25:28.919 808 Manual compaction at level-1 from '!items!m0xIb9uq6tlZdsoz' @ 224 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)
