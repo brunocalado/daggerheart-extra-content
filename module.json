@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Resources for Daggerheart",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -214,7 +214,9 @@
       ]
     }
   ],  
-  "esmodules": [],
+  "esmodules": [
+    "scripts/main.js"
+  ],
   "languages": [],
   "url": "https://github.com/brunocalado/daggerheart-extra-content",
   "manifest": "https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json",
