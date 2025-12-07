@@ -1,3 +1,8 @@
+# 1.4.3
+- cool look chat messages
+- motherboard armor homebrew
+- otimização dos scripts
+
 # 1.4.1
 - psychic class balance update
 
