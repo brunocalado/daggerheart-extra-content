@@ -36,9 +36,6 @@ A comprehensive collection of curses.
   <img width="500" src="docs/psychic.webp" alt="Psychic Class">
 </p>
 
-## Adversary Features Compendium
-All adversary features gathered in one compendium to make it easier to create new enemies.
-
 ## Assets
 - [Turn Marker](turn-markers)
 - [Token Frame](token-frames)
