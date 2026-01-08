@@ -1,92 +1,63 @@
 # Daggerheart - Extra Content
-Resources for Daggerheart
-
-## Macros
-- Create Random PC: create a random PC
-- Downtime
-- Roll Loot and Roll Consumable
-- Request Roll
-- Macros for Light
-- Avoid Death - Scar Check 
-- Help an Ally
-- Spotlight this Token!
-- Beastform
-- Falling And Collision Damage
-- System Probability
-
-### Macro: Aeris Cinematic Crits
-You can use **Aeris Cinematic Crits** module with Daggerheart system. Follow the steps:
-1. Import the macro **AerisCinematicCritsforDaggerheart** to the world.
-2. Go to Configure Settings.
-3. Go to Aeris Cinematic Crits Settings.
-4. Change **Crit Mode** to **Use Custom Macro**
-5. Paste **AerisCinematicCritsforDaggerheart** into **Crit Macro Name** field.
-6. When a PC rolls a critical it should trigger the animation.
-7. You need to set the macro permission to Observer to all players.
+Homebrew content for Daggerheart.
 
 ## More Adversaries Compendium
-Community build adversaries! Share yours too at [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
+Community-built adversaries! Share yours too at this [link](https://github.com/brunocalado/daggerheart-extra-content/issues).
+
 <p align="center">
-  <img width="400" src="docs/extra-enemies.webp">
+  <img width="400" src="docs/extra-enemies.webp" alt="Extra Enemies">
 </p>
 
 ## More Items Compendium
-- Weapons, Loot and Consumables
+Includes Weapons, Loot, and Consumables.
+
 <p align="center">
-  <img width="600" src="docs/more-items.webp">
+  <img width="600" src="docs/more-items.webp" alt="More Items">
 </p>
 
 ## More Ancestries Compendium
+
 <p align="center">
-  <img width="600" src="docs/ancestry.webp">
+  <img width="600" src="docs/ancestry.webp" alt="Ancestries">
 </p>
 
 ## Curses Compendium
-Curses compendium
-
-## Motherboard Frame
-- Compediums with tables and items 
-- Macro: Scrap Reward  
-- Macro: Scrap Shop
-<p align="center">
-  <img width="500" src="docs/macro-motherboard1.webp">
-</p>
+A comprehensive collection of curses.
 
 ## New Classes
 
 ### Magus
 <p align="center">
-  <img width="500" src="docs/magus.webp">
+  <img width="500" src="docs/magus.webp" alt="Magus Class">
 </p>
 
 ### Psychic (Animus) and Psychic (Axiom)
 <p align="center">
-  <img width="500" src="docs/psychic.webp">
+  <img width="500" src="docs/psychic.webp" alt="Psychic Class">
 </p>
 
-## Adversaries Features Compedium
-All adversaries features in one compedium to make easy to create new adversaries.
-
-## Loot and Consumable
-Include macro to make easy roll the tables.
-<p align="center">
-  <img width="500" src="docs/loot-consumable.webp">
-</p>
+## Adversary Features Compendium
+All adversary features gathered in one compendium to make it easier to create new enemies.
 
 ## Assets
 - [Turn Marker](turn-markers)
 - [Token Frame](token-frames)
 - [Bar Brawl](bar-brawl)
 
-# Instalation
-## Instalation
-Search for Daggerheart - Extra Content on Foundry VTT modules.
+# Installation
 
-## Manual Instalation
-Go to **modules** and paste the link. 
-Link: https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json
+## Automatic Installation
+Search for **Daggerheart - Extra Content** in the Foundry VTT module browser.
 
-# Acknowledges
+## Manual Installation
+1. Copy the link below.
+2. Go to the **Add-on Modules** tab in Foundry VTT.
+3. Click **Install Module**.
+4. Paste the link into the **Manifest URL** field.
+
+**Link:** `https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json`
+
+# Acknowledgments
 - @xayentist 
 - @groovything 
 - @joaquinp98 
@@ -94,11 +65,32 @@ Link: https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/ma
 - @flameofwar 
 
 # Changelog
-You can read changes at [Changelog](CHANGELOG.md)
+You can read the full list of changes in the [Changelog](CHANGELOG.md).
 
 # License
-Code license at [LICENSE](LICENSE).
+Code license available at [LICENSE](LICENSE).
 
-The images for Ancestries, Adversaries are AI, so they are under [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
+The images for Ancestries and Adversaries are AI-generated, so they are under the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
 
 sfx-critical: https://pixabay.com/service/license-summary/
+
+# 🧰 My Daggerheart Modules
+
+| Module | Description |
+| :--- | :--- |
+| 💀 [**Adversary Manager**](https://github.com/brunocalado/daggerheart-advmanager) | Scale adversaries instantly and build balanced encounters in Foundry VTT. |
+| ☠️ [**Death Moves**](https://github.com/brunocalado/daggerheart-death-moves) | Enhances the Death Move moment with immersive audio and visual effects. |
+| 📏 [**Distances**](https://github.com/brunocalado/daggerheart-distances) | Visualizes combat ranges with customizable rings and hover calculations. |
+| 🤖 [**Fear Macros**](https://github.com/brunocalado/daggerheart-fear-macros) | Automatically executes macros when the Fear resource is changed. |
+| 😱 [**Fear Tracker**](https://github.com/brunocalado/daggerheart-fear-tracker) | Adds an animated slider bar with configurable fear tokens to the UI. |
+| 🛒 [**Store**](https://github.com/brunocalado/daggerheart-store) | A dynamic, interactive, and fully configurable store for Foundry VTT. |
+| 📦 [**Extra Content**](https://github.com/brunocalado/daggerheart-extra-content) | Homebrew for Daggerheart. |
+| ⚡ [**Quick Actions**](https://github.com/brunocalado/daggerheart-quickactions) | Quick access to common mechanics like Falling Damage, Downtime, etc. |
+| 📜 [**Quick Rules**](https://github.com/brunocalado/daggerheart-quickrules) | Fast and accessible reference guide for the core rules. |
+
+# 🗺️ Adventures
+
+| Adventure | Description |
+| :--- | :--- |
+| ✨ [**I Wish**](https://github.com/brunocalado/i-wish-daggerheart-adventure) | A wealthy merchant is cursed; one final expedition may be the only hope. |
+| 💣 [**Suicide Squad**](https://github.com/brunocalado/suicide-squad-daggerheart-adventure) | Criminals forced to serve a ruthless master in a land on the brink of war. |

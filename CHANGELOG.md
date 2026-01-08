@@ -1,3 +1,11 @@
+# 1.4.5
+- removed all macros, motherboard, etc. Now only homebrew here.
+- You can get the macros at https://github.com/brunocalado/daggerheart-quickactions
+
+# 1.4.4
+- removed Adversaries features, use https://github.com/brunocalado/daggerheart-advmanager
+- 
+
 # 1.4.3
 - cool look chat messages
 - motherboard armor homebrew

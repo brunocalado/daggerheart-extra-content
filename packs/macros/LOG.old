@@ -1,8 +1,0 @@
-2025/12/07-12:29:41.726 41cc Recovering log #995
-2025/12/07-12:29:41.730 41cc Delete type=0 #995
-2025/12/07-12:29:41.730 41cc Delete type=3 #993
-2025/12/07-12:30:25.202 357c Level-0 table #1000: started
-2025/12/07-12:30:25.202 357c Level-0 table #1000: 0 bytes OK
-2025/12/07-12:30:25.203 357c Delete type=0 #998
-2025/12/07-12:30:25.206 357c Manual compaction at level-0 from '!folders!Hz442cHCkERSfi2B' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
-2025/12/07-12:30:25.206 357c Manual compaction at level-1 from '!folders!Hz442cHCkERSfi2B' @ 72057594037927935 : 1 .. '!macros!zWi79s5QqaZnMMtX' @ 0 : 0; will stop at (end)
