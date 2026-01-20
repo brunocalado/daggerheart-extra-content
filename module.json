@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Homebrew for Daggerheart",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "compatibility": {
     "minimum": "13",
     "verified": "13"

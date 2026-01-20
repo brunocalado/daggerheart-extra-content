@@ -1,3 +1,6 @@
+# 1.4.6
+- Crystalline balanced
+
 # 1.4.5
 - removed all macros, motherboard, etc. Now only homebrew here.
 - You can get the macros at https://github.com/brunocalado/daggerheart-quickactions
