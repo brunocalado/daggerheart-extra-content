@@ -1,3 +1,7 @@
+# 1.4.7
+- small fix for Adversaries
+- new armor
+
 # 1.4.6
 - Crystalline balanced
 

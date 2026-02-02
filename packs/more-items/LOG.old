@@ -1,8 +1,15 @@
-2026/01/20-16:42:42.169 4a2c Recovering log #1861
-2026/01/20-16:42:42.172 4a2c Delete type=0 #1861
-2026/01/20-16:42:42.173 4a2c Delete type=3 #1859
-2026/01/20-16:42:53.572 5b90 Level-0 table #1866: started
-2026/01/20-16:42:53.572 5b90 Level-0 table #1866: 0 bytes OK
-2026/01/20-16:42:53.575 5b90 Delete type=0 #1864
-2026/01/20-16:42:53.575 5b90 Manual compaction at level-0 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!vWaixK6pcwW0XfuN.pxWKHG8AjOFM1pAV' @ 0 : 0; will stop at (end)
-2026/01/20-16:42:53.575 5b90 Manual compaction at level-1 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!vWaixK6pcwW0XfuN.pxWKHG8AjOFM1pAV' @ 0 : 0; will stop at (end)
+2026/02/02-10:54:19.152 4538 Recovering log #2375
+2026/02/02-10:54:19.155 4538 Delete type=0 #2375
+2026/02/02-10:54:19.155 4538 Delete type=3 #2373
+2026/02/02-12:11:29.111 3e38 Level-0 table #2380: started
+2026/02/02-12:11:29.113 3e38 Level-0 table #2380: 22244 bytes OK
+2026/02/02-12:11:29.115 3e38 Delete type=0 #2378
+2026/02/02-12:11:29.115 3e38 Manual compaction at level-0 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at (end)
+2026/02/02-12:11:29.115 3e38 Manual compaction at level-1 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 387 : 1
+2026/02/02-12:11:29.115 3e38 Compacting 1@1 + 1@2 files
+2026/02/02-12:11:29.118 3e38 Generated table #2381@1: 91 keys, 60018 bytes
+2026/02/02-12:11:29.118 3e38 Compacted 1@1 + 1@2 files => 60018 bytes
+2026/02/02-12:11:29.119 3e38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/02-12:11:29.119 3e38 Delete type=2 #2372
+2026/02/02-12:11:29.119 3e38 Delete type=2 #2380
+2026/02/02-12:11:29.122 3e38 Manual compaction at level-1 from '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 387 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at (end)
