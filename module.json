@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Homebrew for Daggerheart",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -60,6 +60,18 @@
       },
       "flags": {}
     },
+    {
+      "label": "Modern",
+      "type": "Item",
+      "name": "modern",
+      "path": "packs/modern",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },    
     {
       "label": "Curses",
       "type": "Item",
@@ -132,6 +144,7 @@
           "sorting": "m",
           "color": "#000000",
           "packs": [
+            "modern",
             "more-items",
             "curses",
             "ancestry",
@@ -142,7 +155,7 @@
       ]
     }
   ],  
-  "esmodules": [],
+  "esmodules": [    "scripts/main.js"],
   "languages": [],
   "url": "https://github.com/brunocalado/daggerheart-extra-content",
   "manifest": "https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json",

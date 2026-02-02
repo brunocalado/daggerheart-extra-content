@@ -1,3 +1,6 @@
+# 1.4.8
+- modern weapons
+
 # 1.4.7
 - small fix for Adversaries
 - new armor
