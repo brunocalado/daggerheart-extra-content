@@ -1,3 +1,6 @@
+# 1.4.9
+- fixed modern weapons
+
 # 1.4.8
 - modern weapons
 

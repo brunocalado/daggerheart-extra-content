@@ -50,7 +50,7 @@ Hooks.on('init', () => {
   // Patient Hunter
   CONFIG.DH.ITEM.weaponFeatures.patientHunter = { 
     label: 'Patient Hunter',
-    description: 'If you have not moved during this turn, gain a +2 bonus to your attack roll.',
+    description: 'If you do not move during your spotlight, gain a +2 bonus to your attack roll.',
     actions: [], 
     effects: []
   };
@@ -74,7 +74,7 @@ Hooks.on('init', () => {
   // Heavy Caliber
   CONFIG.DH.ITEM.weaponFeatures.heavyCaliber = { 
     label: 'Heavy Caliber',
-    description: 'This weapon treats any Cover the target is using as if it were one step lower (Total to Heavy, Heavy to Light, Light to None).',
+    description: 'This weapon’s damage ignores armor plating on vehicles. If the target is a creature, a successful attack deals Massive Damage automatically.',
     actions: [], 
     effects: []
   };
