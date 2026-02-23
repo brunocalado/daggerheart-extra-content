@@ -1,8 +1,5 @@
-2026/02/16-12:57:32.154 5c70 Recovering log #2834
-2026/02/16-12:57:32.158 5c70 Delete type=0 #2834
-2026/02/16-12:57:32.158 5c70 Delete type=3 #2832
-2026/02/16-12:57:50.723 7450 Level-0 table #2839: started
-2026/02/16-12:57:50.723 7450 Level-0 table #2839: 0 bytes OK
-2026/02/16-12:57:50.724 7450 Delete type=0 #2837
-2026/02/16-12:57:50.724 7450 Manual compaction at level-0 from '!folders!DqGfWyZ6bkVLOqcw' @ 72057594037927935 : 1 .. '!items.effects!ljZtIywlfv50odvE.PkB8uEshAHROUhHr' @ 0 : 0; will stop at (end)
-2026/02/16-12:57:50.724 7450 Manual compaction at level-1 from '!folders!DqGfWyZ6bkVLOqcw' @ 72057594037927935 : 1 .. '!items.effects!ljZtIywlfv50odvE.PkB8uEshAHROUhHr' @ 0 : 0; will stop at (end)
+2026/02/23-11:58:38.182 6808 Log #2842: 0 ops saved to Table #2843 OK
+2026/02/23-11:58:38.182 6808 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\ancestry/002842.log: OK
+2026/02/23-11:58:38.182 6808 Table #1801: 72 entries OK
+2026/02/23-11:58:38.184 6808 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\ancestry/MANIFEST-002840: OK
+2026/02/23-11:58:38.186 6808 **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\ancestry; recovered 1 files; 39914 bytes. Some data may have been lost. ****

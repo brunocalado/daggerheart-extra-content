@@ -1,8 +1,5 @@
-2026/02/16-12:57:32.178 5c58 Recovering log #2512
-2026/02/16-12:57:32.181 5c58 Delete type=0 #2512
-2026/02/16-12:57:32.181 5c58 Delete type=3 #2510
-2026/02/16-12:57:50.728 7450 Level-0 table #2517: started
-2026/02/16-12:57:50.728 7450 Level-0 table #2517: 0 bytes OK
-2026/02/16-12:57:50.729 7450 Delete type=0 #2515
-2026/02/16-12:57:50.731 7450 Manual compaction at level-0 from '!folders!3Q8xP87fCxwbNLOx' @ 72057594037927935 : 1 .. '!items.effects!ThjRka7o73hN3p0B.cbS8uD9YbIGMGSmv' @ 0 : 0; will stop at (end)
-2026/02/16-12:57:50.731 7450 Manual compaction at level-1 from '!folders!3Q8xP87fCxwbNLOx' @ 72057594037927935 : 1 .. '!items.effects!ThjRka7o73hN3p0B.cbS8uD9YbIGMGSmv' @ 0 : 0; will stop at (end)
+2026/02/23-11:58:38.230 6808 Log #2520: 0 ops saved to Table #2521 OK
+2026/02/23-11:58:38.231 6808 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\subclasses/002520.log: OK
+2026/02/23-11:58:38.231 6808 Table #97: 43 entries OK
+2026/02/23-11:58:38.233 6808 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\subclasses/MANIFEST-002518: OK
+2026/02/23-11:58:38.236 6808 **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\subclasses; recovered 1 files; 26674 bytes. Some data may have been lost. ****

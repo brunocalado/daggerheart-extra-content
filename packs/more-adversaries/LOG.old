@@ -1,8 +1,5 @@
-2026/02/16-12:57:32.120 5c70 Recovering log #2992
-2026/02/16-12:57:32.123 5c70 Delete type=0 #2992
-2026/02/16-12:57:32.124 5c70 Delete type=3 #2990
-2026/02/16-12:57:50.713 7450 Level-0 table #2997: started
-2026/02/16-12:57:50.713 7450 Level-0 table #2997: 0 bytes OK
-2026/02/16-12:57:50.714 7450 Delete type=0 #2995
-2026/02/16-12:57:50.718 7450 Manual compaction at level-0 from '!actors!2owady11IfU1vset' @ 72057594037927935 : 1 .. '!folders!x0pGF9Vhsij5TMbP' @ 0 : 0; will stop at (end)
-2026/02/16-12:57:50.719 7450 Manual compaction at level-1 from '!actors!2owady11IfU1vset' @ 72057594037927935 : 1 .. '!folders!x0pGF9Vhsij5TMbP' @ 0 : 0; will stop at (end)
+2026/02/23-11:58:38.118 6818 Log #3000: 0 ops saved to Table #3001 OK
+2026/02/23-11:58:38.119 6818 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\more-adversaries/003000.log: OK
+2026/02/23-11:58:38.120 6818 Table #1979: 156 entries OK
+2026/02/23-11:58:38.121 6818 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\more-adversaries/MANIFEST-002998: OK
+2026/02/23-11:58:38.123 6818 **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\more-adversaries; recovered 1 files; 147891 bytes. Some data may have been lost. ****

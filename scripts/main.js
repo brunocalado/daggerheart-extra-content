@@ -120,4 +120,57 @@ Hooks.on('init', () => {
     actions: [], 
     effects: []
   };
+  
+  // Fire-and-Forget
+  CONFIG.DH.ITEM.weaponFeatures.fireAndForget = { 
+    label: 'Fire-and-Forget',
+    description: 'Mark 1 Stress to automatically succeed on the attack roll (Success with Hope).',
+    actions: [], 
+    effects: []
+  };
+
+  // Flamethrower
+  CONFIG.DH.ITEM.weaponFeatures.ablaze = { 
+    label: 'Ablaze',
+    description: 'If the target takes at least major damage, they are set on fire.',
+    actions: [], 
+    effects: []
+  };  
+  
+  // Stun
+  CONFIG.DH.ITEM.weaponFeatures.stun = { 
+    label: 'Stun',
+    description: 'On a success, the target becomes temporarily Vulnerable and Restrained.',
+    actions: [], 
+    effects: []
+  };   
+
+  // Splash
+  CONFIG.DH.ITEM.weaponFeatures.splash = { 
+    label: 'Splash',
+    description: 'On a success, deal damage to the target and all others within Very Close range.',
+    actions: [], 
+    effects: []
+  };   
+
+  // ============================================================================
+  // ARMORS
+  // ============================================================================
+  
+  // Concealable
+  CONFIG.DH.ITEM.armorFeatures.concealable = { 
+    label: 'Concealable',
+    description: 'You have advantage on Finesse or Agility rolls made to hide this armor under normal clothing.',
+    actions: [], 
+    effects: []
+  };
+
+  // Blast Padding
+  CONFIG.DH.ITEM.armorFeatures.blastPadding = { 
+    label: 'Blast Padding',
+    description: 'When you mark an Armor Slot to reduce damage from an explosion or area-of-effect attack, you reduce the severity by two thresholds instead of one.',
+    actions: [], 
+    effects: []
+  };
+ 
 });
