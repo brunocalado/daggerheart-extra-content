@@ -1,5 +1,14 @@
-2026/02/23-11:58:38.213 6810 Log #2523: 0 ops saved to Table #2524 OK
-2026/02/23-11:58:38.213 6810 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\classes/002523.log: OK
-2026/02/23-11:58:38.214 6810 Table #104: 23 entries OK
-2026/02/23-11:58:38.215 6810 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\classes/MANIFEST-002521: OK
-2026/02/23-11:58:38.218 6810 **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\classes; recovered 1 files; 16903 bytes. Some data may have been lost. ****
+2026/02/24-15:52:36.359 46d8 Recovering log #2564
+2026/02/24-15:52:36.362 46d8 Delete type=0 #2564
+2026/02/24-15:52:36.362 46d8 Delete type=3 #2562
+2026/02/24-18:11:04.503 63f0 Level-0 table #2570: started
+2026/02/24-18:11:04.505 63f0 Level-0 table #2570: 13196 bytes OK
+2026/02/24-18:11:04.506 63f0 Delete type=0 #2568
+2026/02/24-18:11:04.508 63f0 Manual compaction at level-0 from '!folders!56tlZYGhjZgBTjsS' @ 72057594037927935 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at '!items.effects!uiN7Y1WegHOZtxVo.HVC57gAKPstMdiW8' @ 351 : 1
+2026/02/24-18:11:04.508 63f0 Compacting 1@0 + 1@1 files
+2026/02/24-18:11:04.510 63f0 Generated table #2571@0: 33 keys, 24946 bytes
+2026/02/24-18:11:04.510 63f0 Compacted 1@0 + 1@1 files => 24946 bytes
+2026/02/24-18:11:04.511 63f0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/24-18:11:04.511 63f0 Delete type=2 #2566
+2026/02/24-18:11:04.511 63f0 Delete type=2 #2570
+2026/02/24-18:11:04.514 63f0 Manual compaction at level-0 from '!items.effects!uiN7Y1WegHOZtxVo.HVC57gAKPstMdiW8' @ 351 : 1 .. '!items.effects!xGemeGMXhosaM22K.ZPojnGI1iSk8dNg0' @ 0 : 0; will stop at (end)

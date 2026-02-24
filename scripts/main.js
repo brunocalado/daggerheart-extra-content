@@ -153,6 +153,14 @@ Hooks.on('init', () => {
     effects: []
   };   
 
+  // Tactical Combat Blade
+  CONFIG.DH.ITEM.weaponFeatures.tacticalTool = { 
+    label: 'Tactical Tool',
+    description: 'This blade is designed for more than just killing. You gain Advantage on Finesse rolls made to cut through tough materials (like paracord, thick vines, or seatbelts).',
+    actions: [], 
+    effects: []
+  };
+
   // ============================================================================
   // ARMORS
   // ============================================================================

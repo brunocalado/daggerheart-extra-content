@@ -1,5 +1,7 @@
-2026/02/23-11:58:38.101 6818 Log #1320: 0 ops saved to Table #1321 OK
-2026/02/23-11:58:38.102 6818 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\journals-houserules/001320.log: OK
-2026/02/23-11:58:38.102 6818 Table #5: 4 entries OK
-2026/02/23-11:58:38.103 6818 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\journals-houserules/MANIFEST-001318: OK
-2026/02/23-11:58:38.105 6818 **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\daggerheart-extra-content\packs\journals-houserules; recovered 1 files; 3143 bytes. Some data may have been lost. ****
+2026/02/24-15:52:36.295 56b8 Recovering log #1355
+2026/02/24-15:52:36.300 56b8 Delete type=0 #1355
+2026/02/24-15:52:36.300 56b8 Delete type=3 #1353
+2026/02/24-18:11:04.483 63f0 Level-0 table #1360: started
+2026/02/24-18:11:04.483 63f0 Level-0 table #1360: 0 bytes OK
+2026/02/24-18:11:04.484 63f0 Delete type=0 #1358
+2026/02/24-18:11:04.484 63f0 Manual compaction at level-0 from '!journal!3geH5hukWql2d6xH' @ 72057594037927935 : 1 .. '!journal.pages!3geH5hukWql2d6xH.OklBdQEpkl9pFE8M' @ 0 : 0; will stop at (end)

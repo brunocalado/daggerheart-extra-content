@@ -1,3 +1,8 @@
+# 1.5.2
+- New Class: Soldier
+- More modern stuff
+- PreGens
+
 # 1.5.1
 - More modern stuff
 
