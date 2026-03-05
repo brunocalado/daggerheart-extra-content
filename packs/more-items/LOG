@@ -1,14 +1,14 @@
-2026/03/05-08:15:26.061 6224 Recovering log #3148
-2026/03/05-08:15:26.068 6224 Delete type=0 #3148
-2026/03/05-08:15:26.068 6224 Delete type=3 #3147
-2026/03/05-09:14:43.461 2b54 Level-0 table #3152: started
-2026/03/05-09:14:43.463 2b54 Level-0 table #3152: 49348 bytes OK
-2026/03/05-09:14:43.464 2b54 Delete type=0 #3150
-2026/03/05-09:14:43.469 2b54 Manual compaction at level-0 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at '!items!zYLAC8zfSj27kldB' @ 463 : 1
-2026/03/05-09:14:43.469 2b54 Compacting 1@0 + 1@1 files
-2026/03/05-09:14:43.471 2b54 Generated table #3153@0: 91 keys, 60933 bytes
-2026/03/05-09:14:43.471 2b54 Compacted 1@0 + 1@1 files => 60933 bytes
-2026/03/05-09:14:43.471 2b54 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/05-09:14:43.472 2b54 Delete type=2 #2908
-2026/03/05-09:14:43.472 2b54 Delete type=2 #3152
-2026/03/05-09:14:43.475 2b54 Manual compaction at level-0 from '!items!zYLAC8zfSj27kldB' @ 463 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at (end)
+2026/03/05-16:01:22.828 61f0 Recovering log #3168
+2026/03/05-16:01:22.833 61f0 Delete type=0 #3168
+2026/03/05-16:01:22.833 61f0 Delete type=3 #3166
+2026/03/05-17:55:04.786 2b54 Level-0 table #3173: started
+2026/03/05-17:55:04.788 2b54 Level-0 table #3173: 53804 bytes OK
+2026/03/05-17:55:04.789 2b54 Delete type=0 #3171
+2026/03/05-17:55:04.790 2b54 Manual compaction at level-0 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at '!items.effects!t0Esm8cCc7rmBJLV.x2gKUS0GYcMGovVP' @ 527 : 1
+2026/03/05-17:55:04.790 2b54 Compacting 1@0 + 1@1 files
+2026/03/05-17:55:04.792 2b54 Generated table #3174@0: 94 keys, 66026 bytes
+2026/03/05-17:55:04.792 2b54 Compacted 1@0 + 1@1 files => 66026 bytes
+2026/03/05-17:55:04.793 2b54 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/05-17:55:04.793 2b54 Delete type=2 #3153
+2026/03/05-17:55:04.793 2b54 Delete type=2 #3173
+2026/03/05-17:55:04.796 2b54 Manual compaction at level-0 from '!items.effects!t0Esm8cCc7rmBJLV.x2gKUS0GYcMGovVP' @ 527 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at (end)

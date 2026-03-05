@@ -1,3 +1,6 @@
+# 1.5.4
+- More Items balance and store ready
+
 # 1.5.3
 - Modern balance update
 
