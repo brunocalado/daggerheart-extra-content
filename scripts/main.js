@@ -1,11 +1,4 @@
 Hooks.on('init', () => {
-  // Quick
-  CONFIG.DH.ITEM.weaponFeatures.quick = { 
-    label: 'Quick',
-    description: 'When you make an attack, you can mark a Stress to target another creature within range.',
-    actions: [], 
-    effects: []
-  };
 
   // Scattershot
   CONFIG.DH.ITEM.weaponFeatures.scattershot = { 
@@ -71,10 +64,10 @@ Hooks.on('init', () => {
     effects: []
   };
 
-  // Heavy Caliber
-  CONFIG.DH.ITEM.weaponFeatures.heavyCaliber = { 
-    label: 'Heavy Caliber',
-    description: 'This weapon’s damage ignores armor plating on vehicles. If the target is a creature, a successful attack deals Massive Damage automatically.',
+  // Anti-Materiel Round
+  CONFIG.DH.ITEM.weaponFeatures.antiMaterielRound = { 
+    label: 'Anti-Materiel Round',
+    description: 'The target marks an amount of Stress equal to the number of Hit Points they mark from this attack.',
     actions: [], 
     effects: []
   };
@@ -84,7 +77,7 @@ Hooks.on('init', () => {
   // Staggering
   CONFIG.DH.ITEM.weaponFeatures.staggering = { 
     label: 'Staggering',
-    description: 'When you deal Major or Severe damage, the target is Vulnerable until the next Short Rest.',
+    description: 'When you deal Major or Severe damage, the target becomes Vulnerable.',
     actions: [], 
     effects: []
   };
@@ -100,7 +93,7 @@ Hooks.on('init', () => {
   // Suppressive Fire
   CONFIG.DH.ITEM.weaponFeatures.suppressiveFire = { 
     label: 'Suppressive Fire',
-    description: 'When you attack, you can mark a Stress to make the target and all enemies within Very Close Restrained.',
+    description: 'On a successful attack, instead of dealing damage, you may mark 1 Stress to make the target and all enemies within Close range of them Restrained.',
     actions: [], 
     effects: []
   };

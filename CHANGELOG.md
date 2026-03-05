@@ -1,3 +1,6 @@
+# 1.5.3
+- Modern balance update
+
 # 1.5.2
 - New Class: Soldier
 - More modern stuff
