@@ -1,14 +1,14 @@
-2026/03/05-20:43:05.612 2d38 Recovering log #3172
-2026/03/05-20:43:05.615 2d38 Delete type=0 #3172
-2026/03/05-20:43:05.615 2d38 Delete type=3 #3170
-2026/03/05-23:00:50.725 51b0 Level-0 table #3178: started
-2026/03/05-23:00:50.727 51b0 Level-0 table #3178: 66974 bytes OK
-2026/03/05-23:00:50.728 51b0 Delete type=0 #3176
-2026/03/05-23:00:50.728 51b0 Manual compaction at level-0 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at '!items.effects!mIBW8tzEYISG6jya.JrJKd8qfOPAFFxVF' @ 718 : 1
-2026/03/05-23:00:50.728 51b0 Compacting 1@0 + 1@1 files
-2026/03/05-23:00:50.731 51b0 Generated table #3179@0: 98 keys, 77876 bytes
-2026/03/05-23:00:50.731 51b0 Compacted 1@0 + 1@1 files => 77876 bytes
-2026/03/05-23:00:50.732 51b0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/05-23:00:50.732 51b0 Delete type=2 #3174
-2026/03/05-23:00:50.733 51b0 Delete type=2 #3178
-2026/03/05-23:00:50.735 51b0 Manual compaction at level-0 from '!items.effects!mIBW8tzEYISG6jya.JrJKd8qfOPAFFxVF' @ 718 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at (end)
+2026/03/06-15:11:34.207 6a8c Recovering log #3253
+2026/03/06-15:11:34.210 6a8c Delete type=0 #3253
+2026/03/06-15:11:34.210 6a8c Delete type=3 #3251
+2026/03/06-15:17:39.342 5b3c Level-0 table #3258: started
+2026/03/06-15:17:39.343 5b3c Level-0 table #3258: 1296 bytes OK
+2026/03/06-15:17:39.345 5b3c Delete type=0 #3256
+2026/03/06-15:17:39.345 5b3c Manual compaction at level-0 from '!folders!A2Nmg0zNj6IOVJb9' @ 72057594037927935 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at '!items!SlqZIQWAyEyAjwyi' @ 733 : 1
+2026/03/06-15:17:39.345 5b3c Compacting 1@0 + 1@1 files
+2026/03/06-15:17:39.347 5b3c Generated table #3259@0: 102 keys, 81032 bytes
+2026/03/06-15:17:39.347 5b3c Compacted 1@0 + 1@1 files => 81032 bytes
+2026/03/06-15:17:39.348 5b3c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/06-15:17:39.348 5b3c Delete type=2 #3250
+2026/03/06-15:17:39.348 5b3c Delete type=2 #3258
+2026/03/06-15:17:39.352 5b3c Manual compaction at level-0 from '!items!SlqZIQWAyEyAjwyi' @ 733 : 1 .. '!items.effects!zUvcaBE8p2xjX7dX.2DH3Lp7Q2CFoGlBM' @ 0 : 0; will stop at (end)

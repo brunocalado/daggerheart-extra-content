@@ -1,3 +1,7 @@
+# 1.5.6
+- More Consumable Items
+- Split between Potions and Consumable 
+
 # 1.5.5
 - Consumable More Items balance and store ready
 
