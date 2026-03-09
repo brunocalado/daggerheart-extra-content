@@ -2,7 +2,7 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Homebrew for Daggerheart",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -61,10 +61,58 @@
       "flags": {}
     },    
     {
-      "label": "More Items",
+      "label": "Weapons",
       "type": "Item",
-      "name": "more-items",
-      "path": "packs/more-items",
+      "name": "weapons",
+      "path": "packs/weapons",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },    
+    {
+      "label": "Armors",
+      "type": "Item",
+      "name": "armors",
+      "path": "packs/armors",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },      
+    {
+      "label": "Potions",
+      "type": "Item",
+      "name": "potions",
+      "path": "packs/potions",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },     
+    {
+      "label": "Consumables",
+      "type": "Item",
+      "name": "consumables",
+      "path": "packs/consumables",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },      
+    {
+      "label": "Loot",
+      "type": "Item",
+      "name": "loot",
+      "path": "packs/loot",
       "system": "daggerheart",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -160,21 +208,39 @@
         "journals-houserules",
         "more-adversaries",
         "pre-generated",
+        "curses",        
         "house-rules"
       ],
       "folders": [
         {
           "name": "Character Options",
-          "sorting": "m",
-          "color": "#000000",
+          "sorting": "a",
+          "color": "#5c3f00",
           "packs": [
             "communities",
-            "modern",
-            "more-items",
-            "curses",
             "ancestry",
             "classes",
             "subclasses"
+          ]
+        },
+        {
+          "name": "Items",
+          "sorting": "a",
+          "color": "#092900",
+          "packs": [
+            "weapons",
+            "armors",            
+            "loot",            
+            "consumables",            
+            "potions"
+          ]
+        },
+        {
+          "name": "Modern Items",
+          "sorting": "a",
+          "color": "#060057",
+          "packs": [
+            "modern"
           ]
         }         
       ]

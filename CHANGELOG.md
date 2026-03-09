@@ -1,3 +1,6 @@
+# 1.5.7
+- More Items content moved to multiple compendiums
+
 # 1.5.6
 - More Consumable Items
 - Split between Potions and Consumable 
