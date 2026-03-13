@@ -1,3 +1,6 @@
+# 1.5.8
+- Update for Store
+
 # 1.5.7
 - More Items content moved to multiple compendiums
 
