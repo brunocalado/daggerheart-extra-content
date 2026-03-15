@@ -1,3 +1,6 @@
+# 1.5.9
+- New domain loot. Balance for rune ward
+
 # 1.5.8
 - Update for Store
 
