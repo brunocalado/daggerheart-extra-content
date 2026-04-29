@@ -1,3 +1,8 @@
+# 1.6.0
+
+- new class: mundane
+- new community
+
 # 1.5.9
 - New domain loot. Balance for rune ward
 
