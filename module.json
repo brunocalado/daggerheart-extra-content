@@ -2,27 +2,34 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Homebrew for Daggerheart",
-  "version": "1.6.0",
+  
+  "version": "1.7.0",
+  
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14"
   },
+  
   "relationships": {
     "systems": [
       {
         "id": "daggerheart",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "2.2.6"
+        }
       }
     ]
   },
+  
   "authors": [
     {
       "name": "Mestre Digital",
-      "url": "https://www.youtube.com/c/MestreDigital",
+      "url": "http://youtube.com/@mestredigital",
       "flags": {}
     }
   ],
+  
   "packs": [
     {
       "label": "Journals: House Rules",
@@ -59,7 +66,7 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
-    },    
+    },
     {
       "label": "Weapons",
       "type": "Item",
@@ -71,7 +78,7 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
-    },    
+    },
     {
       "label": "Armors",
       "type": "Item",
@@ -83,7 +90,7 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
-    },      
+    },
     {
       "label": "Potions",
       "type": "Item",
@@ -95,7 +102,7 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
-    },     
+    },
     {
       "label": "Consumables",
       "type": "Item",
@@ -107,7 +114,7 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
-    },      
+    },
     {
       "label": "Loot",
       "type": "Item",
@@ -131,7 +138,7 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
-    },    
+    },
     {
       "label": "Curses",
       "type": "Item",
@@ -141,7 +148,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "label": "Ancestries",
@@ -152,7 +160,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "label": "Communities",
@@ -163,8 +172,9 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
-    },    
+      },
+      "flags": {}
+    },
     {
       "label": "House Rules",
       "type": "Item",
@@ -174,7 +184,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "label": "Classes",
@@ -185,7 +196,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "label": "Subclasses",
@@ -196,19 +208,20 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
-    }  
-  ],  
+      },
+      "flags": {}
+    }
+  ],
   "packFolders": [
     {
       "name": "Extra Content",
       "sorting": "a",
       "color": "#ad0000",
-      "packs": [        
+      "packs": [
         "journals-houserules",
         "more-adversaries",
         "pre-generated",
-        "curses",        
+        "curses",
         "house-rules"
       ],
       "folders": [
@@ -221,7 +234,8 @@
             "ancestry",
             "classes",
             "subclasses"
-          ]
+          ],
+          "folders": []
         },
         {
           "name": "Items",
@@ -229,11 +243,12 @@
           "color": "#092900",
           "packs": [
             "weapons",
-            "armors",            
-            "loot",            
-            "consumables",            
+            "armors",
+            "loot",
+            "consumables",
             "potions"
-          ]
+          ],
+          "folders": []
         },
         {
           "name": "Modern Items",
@@ -241,14 +256,17 @@
           "color": "#060057",
           "packs": [
             "modern"
-          ]
-        }         
+          ],
+          "folders": []
+        }
       ]
     }
-  ],  
-  "esmodules": [    "scripts/main.js"],
-  "languages": [],
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
   "url": "https://github.com/brunocalado/daggerheart-extra-content",
   "manifest": "https://raw.githubusercontent.com/brunocalado/daggerheart-extra-content/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/daggerheart-extra-content/zip/main"
+  "download": "https://codeload.github.com/brunocalado/daggerheart-extra-content/zip/main",
+  "flags": {}
 }
