@@ -1,3 +1,8 @@
+# 1.7.1
+
+- v14 only
+- https://github.com/brunocalado/daggerheart-extra-content/issues/6
+
 # 1.6.0
 
 - new class: mundane
