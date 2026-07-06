@@ -1,3 +1,7 @@
+# 1.7.2
+
+- More domain loot
+
 # 1.7.1
 
 - v14 only

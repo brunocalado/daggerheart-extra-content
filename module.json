@@ -2,14 +2,11 @@
   "id": "daggerheart-extra-content",
   "title": "Daggerheart - Extra Content",
   "description": "Homebrew for Daggerheart",
-  
-  "version": "1.7.1",
-  
+  "version": "1.7.2",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
-  
   "relationships": {
     "systems": [
       {
@@ -21,7 +18,6 @@
       }
     ]
   },
-  
   "authors": [
     {
       "name": "Mestre Digital",
@@ -29,7 +25,6 @@
       "flags": {}
     }
   ],
-  
   "packs": [
     {
       "label": "Journals: House Rules",
